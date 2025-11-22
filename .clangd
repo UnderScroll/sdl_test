@@ -1,0 +1,5 @@
+CompileFlags:
+    Add: [-Wall, -Wextra, -Wpedantic, -std=c++26]
+Diagnostics:
+  Includes:
+    IgnoreHeader: location_formatter.hpp

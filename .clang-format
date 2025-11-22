@@ -1,0 +1,7 @@
+BasedOnStyle: Google
+ColumnLimit: 0
+AllowShortCaseExpressionOnASingleLine: true
+AllowShortCaseLabelsOnASingleLine: true
+PointerAlignment: Left
+ReflowComments: false
+SpacesBeforeTrailingComments: 1
